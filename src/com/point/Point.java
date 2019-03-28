@@ -1,4 +1,4 @@
-package com.berkayselvi;
+package com.point;
 
 public class Point {
     private int x;
@@ -37,8 +37,7 @@ public class Point {
         return (Math.sqrt((x - this.x) * (x - this.x) + (y - this.y) * (y - this.y)));
     }
 
-    public double distance(Point){
-
+    public double distance(Point point){
+        return (Math.sqrt((point.x - this.x) * (point.x - this.x) + (point.y - this.y) * (point.y - this.y)));
     }
-
 }

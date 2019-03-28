@@ -1,4 +1,4 @@
-package com.berkayselvi;
+package com.point;
 
 public class Main {
     public static void main(String[] args) {
