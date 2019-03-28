@@ -1,6 +1,6 @@
 package com.carModel;
 
-public class Main {
+public class CarMain {
 
     public static void main(String[] args) {
         Car porsche = new Car();
