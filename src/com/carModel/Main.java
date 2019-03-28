@@ -1,4 +1,4 @@
-package com.com.carModel;
+package com.carModel;
 
 public class Main {
 
