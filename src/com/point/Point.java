@@ -1,4 +1,4 @@
-package com.javaCourse;
+package com.point;
 
 public class Point {
     private int x;
