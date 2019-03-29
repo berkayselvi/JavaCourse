@@ -1,4 +1,4 @@
-package com.wall;
+package com.wallArea;
 
 public class Wall {
     private double width;
