@@ -1,4 +1,4 @@
-package com.ComplexNumber;
+package com.complexNumber;
 
 public class ComplexNumberMain {
     public static void main(String[] args) {
